@@ -1,4 +1,4 @@
-site_name: IPTV-EPG API documentation
+site_name: http://epg.best/23b73-2af6vb.xml.gz
 pages:
   - Usage: index.md
   - Authentication: authentication.md
