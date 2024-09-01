@@ -1,10 +1,10 @@
 site_name: http://epg.best/23b73-2af6vb.xml.gz
-pages:
-  - Usage: index.md
+pages:3
+  - Usage: 18index.md
   - Authentication: authentication.md
-  - Countries and channels: channels.md
-  - Programmes: programmes.md
-  - User data: user.md
-  - User links: links.md 
-  - Changelog: changelog.md
+  - Countries and channels: Germany channels.md
+  - Programmes:iptv programmes.md
+  - User data: Dominik user.md
+  - User links:https://epg.best/442c7-2af6vb.m3u links.md 
+  - Changelog: MOBIDICk85changelog.md
 theme: readthedocs
